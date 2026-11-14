@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"EACL Findings":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"arXiv":
+  color: "#b31b1b"
 
-"Vision":
+"ISVLSI":
+  color: "#0076df"
+
+"IEEE TNNLS":
+  color: "#00629b"
+
+"SPACE":
   color: "#009f36"
+
+"Computer":
+  color: "#6f42c1"
+
+"Adv. Mater.":
+  color: "#e65100"

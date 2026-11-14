@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught and teaching assistance at NTU Singapore.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Instructor
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **[Deep Learning Bootcamp](https://ntu-dl-bootcamp.github.io/deep-learning-2026/meet/) — Deep Learning for NLP** (Fall 2023, Fall 2024, Fall 2025)
 
-{% include courses.liquid %}
+### Teaching Assistant
+
+- **CE7491: Special Advanced Topic - Digital Image Processing** (Fall 2024, Fall 2025)
+- **SC2001: Algorithm Design & Analysis** (Fall 2024, Fall 2025)
+- **SC1007: Algorithms & Data Structures** (Spring 2025)
