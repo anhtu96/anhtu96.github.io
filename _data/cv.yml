@@ -1,7 +1,7 @@
 cv:
   name: Anh Tu Ngo
-  label: Ph.D. Candidate in Computer Science
-  email: ngoanhtu001@e.ntu.edu.sg
+  label: Ph.D. Candidate
+  email: tungo.ee.96@gmail.com
   location: Singapore
   image: ""
   summary: >
@@ -20,18 +20,19 @@ cv:
         url: https://www.ntu.edu.sg/
         area: Computer Science (CCDS)
         studyType: Ph.D.
-        start_date: 2022
+        start_date: 2023
         end_date: Present
         highlights:
           - "Advisor: Prof. Anupam Chattopadhyay"
-          - "Research focus: Security and privacy of machine learning, neural network watermarking, adversarial robustness, and LLM anti-distillation."
+          - "Research focus: Security and privacy of machine learning"
 
-      - institution: "[Previous University]"
-        location: "[City, Country]"
-        area: "[Major]"
-        studyType: "[B.Sc. / M.Sc.]"
-        start_date: YYYY
-        end_date: YYYY
+      - institution: "HCMC University of Technology - VNUHCM"
+        url: https://hcmut.edu.vn/en
+        location: "Vietnam"
+        area: "Electrical & Electronics Engineering"
+        studyType: "B.Eng."
+        start_date: 2014
+        end_date: 2018
 
     Experience:
       - company: Nanyang Technological University (NTU)

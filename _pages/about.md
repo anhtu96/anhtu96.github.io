@@ -29,3 +29,10 @@ latest_posts:
 
 I am a Computer Science Ph.D. candidate at Nanyang Technological University (NTU), Singapore, advised by [Prof. Anupam Chattopadhyay](https://dr.ntu.edu.sg/entities/person/Anupam-Chattopadhyay). My research interests lie in the **security and privacy of machine learning**, spanning adversarial robustness, neural network watermarking, and anti-distillation for LLMs. My goal is to build trustworthy AI systems with verifiable provenance and strong resilience against real-world threats. I am currently open to postdoc positions as well as industry roles.
 
+<style>
+  .publications ol.bibliography li .abbr abbr,
+  .publications ol.bibliography li .abbr abbr div {
+    color: #ffffff !important;
+  }
+</style>
+

@@ -18,3 +18,10 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+  .publications ol.bibliography li .abbr abbr,
+  .publications ol.bibliography li .abbr abbr div {
+    color: #ffffff !important;
+  }
+</style>
